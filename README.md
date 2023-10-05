@@ -125,3 +125,10 @@ Similar <label> and <input> elements are provided for "Full Name," "Email Id," a
 </body> and </html>: These are closing tags for the body and HTML documents, respectively, indicating the end of the HTML structure.
 
 In summary, this code creates a signup form with fields for a username, full name, email, and password. When the user submits the form, the data is sent to the "/signup" URL. Additionally, there is a link to a login page ("LoginForm.html") for users who already have an account. However, some essential elements in the HTML structure (such as the <title> tag in the head section) are missing, and the server-side processing of the form data is not included in this code snippet.
+
+
+
+**Link of output**
+
+
+(https://docs.google.com/document/d/13mVuAyG5sHXc-3ro35hQ9_nRvXZpPM_CMTAC4yDfidc/edit)https://docs.google.com/document/d/13mVuAyG5sHXc-3ro35hQ9_nRvXZpPM_CMTAC4yDfidc/edit
